@@ -1,0 +1,425 @@
+{
+ "vip": {
+  "config": {
+   "dns_server": [
+    "8.8.8.8",
+     "8.8.4.4"
+   ],
+    "udp": [
+    53,
+     443,
+     9981
+   ],
+    "tun_mtu": 1380,
+    "tcp": [
+    443,
+     9981
+   ]
+  },
+   "server": [
+   {
+    "load": 2,
+     "is_bt": false,
+     "obs_key": "6FZMzocpnq5Z8zdcYDxjH9",
+     "is_vip": false,
+     "country": "KR",
+     "obs_algo": 1,
+     "ip": "13.125.131.229",
+     "area": "",
+     "is_running": true
+   },
+    {
+    "load": 4,
+     "is_bt": false,
+     "obs_key": "NMTsHUADhTG9Qo6DrVVUsi",
+     "is_vip": false,
+     "country": "KR",
+     "obs_algo": 1,
+     "ip": "52.78.161.87",
+     "area": "",
+     "is_running": true
+   },
+    {
+    "load": 0,
+     "is_bt": false,
+     "obs_key": "afkqNnrMJfEQiKoLGoWYh6",
+     "is_vip": false,
+     "country": "CA",
+     "obs_algo": 1,
+     "ip": "99.79.72.119",
+     "area": "",
+     "is_running": true
+   },
+    {
+    "load": 2,
+     "is_bt": false,
+     "obs_key": "rN4r2DxZyUTLqTHHuAC7XH",
+     "is_vip": false,
+     "country": "DE",
+     "obs_algo": 1,
+     "ip": "88.99.33.206",
+     "area": "",
+     "is_running": true
+   },
+    {
+    "load": 6,
+     "is_bt": false,
+     "obs_key": "AtVVQgFDVgmB6rWemoDiAK",
+     "is_vip": false,
+     "country": "DE",
+     "obs_algo": 1,
+     "ip": "52.58.245.14",
+     "area": "",
+     "is_running": true
+   },
+    {
+    "load": 3,
+     "is_bt": false,
+     "obs_key": "86swMXvXEaZQnr9mxhKUzX",
+     "is_vip": false,
+     "country": "SG",
+     "obs_algo": 1,
+     "ip": "3.1.194.67",
+     "area": "",
+     "is_running": true
+   },
+    {
+    "load": 8,
+     "is_bt": false,
+     "obs_key": "uFvYjiB3h9n7Xe2aNvcyCZ",
+     "is_vip": false,
+     "country": "SG",
+     "obs_algo": 1,
+     "ip": "3.0.139.27",
+     "area": "",
+     "is_running": true
+   },
+    {
+    "load": 6,
+     "is_bt": false,
+     "obs_key": "rB6gVoNUiHaZUK8KEr6Zse",
+     "is_vip": false,
+     "country": "IN",
+     "obs_algo": 1,
+     "ip": "13.233.56.224",
+     "area": "",
+     "is_running": true
+   },
+    {
+    "load": 10,
+     "is_bt": false,
+     "obs_key": "dnM7kQdTmPj8Q8YtkkRVMZ",
+     "is_vip": false,
+     "country": "US",
+     "obs_algo": 1,
+     "ip": "54.159.9.124",
+     "area": "US East",
+     "is_running": true
+   },
+    {
+    "load": 3,
+     "is_bt": false,
+     "obs_key": "gmFMK2nvgxU6DY64pGWFf6",
+     "is_vip": false,
+     "country": "JP",
+     "obs_algo": 1,
+     "ip": "52.68.253.162",
+     "area": "",
+     "is_running": true
+   },
+    {
+    "load": 5,
+     "is_bt": false,
+     "obs_key": "9ARGQqVaJSR6kZX67VNPSU",
+     "is_vip": false,
+     "country": "JP",
+     "obs_algo": 1,
+     "ip": "54.238.212.11",
+     "area": "",
+     "is_running": true
+   },
+    {
+    "load": 0,
+     "is_bt": false,
+     "obs_key": "Bz6kCcq26XNjHtoXFQVJH4",
+     "is_vip": false,
+     "country": "US",
+     "obs_algo": 0,
+     "ip": "23.88.228.239",
+     "area": "US West",
+     "is_running": true
+   },
+    {
+    "load": 0,
+     "is_bt": false,
+     "obs_key": "i7YLxmxq6iQB3d9TuNsiWK",
+     "is_vip": false,
+     "country": "US",
+     "obs_algo": 1,
+     "ip": "23.88.228.197",
+     "area": "US West",
+     "is_running": true
+   },
+    {
+    "load": 0,
+     "is_bt": false,
+     "obs_key": "z3fyXaKHxpu5TwbhYd6MUC",
+     "is_vip": false,
+     "country": "US",
+     "obs_algo": 1,
+     "ip": "18.237.83.232",
+     "area": "US West",
+     "is_running": true
+   },
+    {
+    "load": 3,
+     "is_bt": false,
+     "obs_key": "z6DDFja3dNbqYapUTySgSJ",
+     "is_vip": false,
+     "country": "US",
+     "obs_algo": 0,
+     "ip": "192.157.192.113",
+     "area": "US West",
+     "is_running": true
+   },
+    {
+    "load": 2,
+     "is_bt": false,
+     "obs_key": "evTBCzkp8sM7R23YLzTTcK",
+     "is_vip": false,
+     "country": "FR",
+     "obs_algo": 1,
+     "ip": "35.180.33.112",
+     "area": "",
+     "is_running": true
+   },
+    {
+    "load": 0,
+     "is_bt": false,
+     "obs_key": "u92eKRfUiB8rLMeRFkL7JR",
+     "is_vip": false,
+     "country": "AU",
+     "obs_algo": 1,
+     "ip": "13.211.90.53",
+     "area": "",
+     "is_running": true
+   },
+    {
+    "load": 2,
+     "is_bt": false,
+     "obs_key": "rBo5bMQyEKUJYvXHu23f2e",
+     "is_vip": false,
+     "country": "GB",
+     "obs_algo": 1,
+     "ip": "3.9.17.81",
+     "area": "",
+     "is_running": true
+   }
+  ]
+ },
+  "config": {
+  "dns_server": [
+   "8.8.8.8",
+    "8.8.4.4"
+  ],
+   "udp": [
+   53,
+    443,
+    9801
+  ],
+   "tun_mtu": 1380,
+   "tcp": [
+   443,
+    9801
+  ]
+ },
+  "server": [
+  {
+   "load": 24,
+    "is_bt": false,
+    "obs_key": "baBoYNzh7bdS87Unq3Yu9e",
+    "is_vip": false,
+    "country": "FR",
+    "obs_algo": 1,
+    "ip": "51.15.225.7",
+    "area": "",
+    "is_running": true
+  },
+   {
+   "load": 25,
+    "is_bt": false,
+    "obs_key": "kwMaBEzuwwhGjL5RdvJRQ8",
+    "is_vip": false,
+    "country": "FR",
+    "obs_algo": 1,
+    "ip": "51.15.243.242",
+    "area": "",
+    "is_running": true
+  },
+   {
+   "load": 25,
+    "is_bt": false,
+    "obs_key": "QE4EifTBhvRmQAQMrPcjud",
+    "is_vip": false,
+    "country": "FR",
+    "obs_algo": 1,
+    "ip": "51.15.215.11",
+    "area": "",
+    "is_running": true
+  },
+   {
+   "load": 33,
+    "is_bt": false,
+    "obs_key": "vRKGU3H565nfoK7Q2xkLhW",
+    "is_vip": false,
+    "country": "DE",
+    "obs_algo": 1,
+    "ip": "116.202.29.142",
+    "area": "",
+    "is_running": true
+  },
+   {
+   "load": 33,
+    "is_bt": false,
+    "obs_key": "CpTEppmzH8CefrSZyS3PD3",
+    "is_vip": false,
+    "country": "DE",
+    "obs_algo": 1,
+    "ip": "195.201.145.158",
+    "area": "",
+    "is_running": true
+  },
+   {
+   "load": 34,
+    "is_bt": false,
+    "obs_key": "XUYAr4eEtag7GDYrysnjxm",
+    "is_vip": false,
+    "country": "DE",
+    "obs_algo": 1,
+    "ip": "116.202.29.131",
+    "area": "",
+    "is_running": true
+  },
+   {
+   "load": 35,
+    "is_bt": false,
+    "obs_key": "Ho7w2td7ZWxWn7wiaB2yjA",
+    "is_vip": false,
+    "country": "DE",
+    "obs_algo": 1,
+    "ip": "116.202.31.81",
+    "area": "",
+    "is_running": true
+  },
+   {
+   "load": 37,
+    "is_bt": false,
+    "obs_key": "Kvsmo6JqNK7JuvYab54KX3",
+    "is_vip": false,
+    "country": "DE",
+    "obs_algo": 1,
+    "ip": "116.202.29.129",
+    "area": "",
+    "is_running": true
+  },
+   {
+   "load": 25,
+    "is_bt": false,
+    "obs_key": "JYdrMT7LbnirDAhAa58VzH",
+    "is_vip": false,
+    "country": "NL",
+    "obs_algo": 1,
+    "ip": "51.15.116.92",
+    "area": "",
+    "is_running": true
+  },
+   {
+   "load": 26,
+    "is_bt": false,
+    "obs_key": "m3bNsgzsZmrZtBDHPP4bd2",
+    "is_vip": false,
+    "country": "NL",
+    "obs_algo": 1,
+    "ip": "51.15.105.102",
+    "area": "",
+    "is_running": true
+  },
+   {
+   "load": 26,
+    "is_bt": false,
+    "obs_key": "r2ibPGGD5uyLH2rxXsxkRK",
+    "is_vip": false,
+    "country": "NL",
+    "obs_algo": 1,
+    "ip": "51.15.119.214",
+    "area": "",
+    "is_running": true
+  },
+   {
+   "load": 26,
+    "is_bt": false,
+    "obs_key": "7nDcZFdpqCmAxVfuBCKCXm",
+    "is_vip": false,
+    "country": "NL",
+    "obs_algo": 1,
+    "ip": "51.15.124.30",
+    "area": "",
+    "is_running": true
+  },
+   {
+   "load": 27,
+    "is_bt": false,
+    "obs_key": "GkycrANsJJymhZMHVimjjH",
+    "is_vip": false,
+    "country": "US",
+    "obs_algo": 1,
+    "ip": "209.141.61.87",
+    "area": "US West",
+    "is_running": true
+  },
+   {
+   "load": 30,
+    "is_bt": false,
+    "obs_key": "HvJycj4qWgmxwdRY9DxaJb",
+    "is_vip": false,
+    "country": "US",
+    "obs_algo": 1,
+    "ip": "209.141.48.82",
+    "area": "US West",
+    "is_running": true
+  },
+   {
+   "load": 31,
+    "is_bt": false,
+    "obs_key": "88jEYximLoGFywQA4QLSdn",
+    "is_vip": false,
+    "country": "US",
+    "obs_algo": 1,
+    "ip": "209.141.36.179",
+    "area": "US West",
+    "is_running": true
+  },
+   {
+   "load": 31,
+    "is_bt": false,
+    "obs_key": "bb7DVQzqMbkfrCeJYd3WJc",
+    "is_vip": false,
+    "country": "US",
+    "obs_algo": 1,
+    "ip": "167.88.161.204",
+    "area": "US West",
+    "is_running": true
+  },
+   {
+   "load": 31,
+    "is_bt": false,
+    "obs_key": "fXAH2MXRzsZJGY5PxWoqNZ",
+    "is_vip": false,
+    "country": "US",
+    "obs_algo": 1,
+    "ip": "209.141.43.62",
+    "area": "US West",
+    "is_running": true
+  }
+ ]
+}
